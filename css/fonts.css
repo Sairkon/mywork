@@ -1,0 +1,32 @@
+@font-face{
+    font-family: 'montserrat';
+    font-weight: 400;
+    src: url('../fonts/montserrat/Montserrat-Regular.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'montserrat';
+    font-weight: 700;
+    src: url('../fonts/montserrat/Montserrat-Bold.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'product sans';
+    font-weight: 400;
+    src: url('../fonts/productsans/Product-Sans-Regular.ttf') format('truetype');
+}
+
+/* fonts icon */
+@font-face{
+    font-family: 'icon';
+    font-weight: 300;
+    src: url('../fonts/webfonts/fa-light-300.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'icon';
+    font-weight: 400;
+    src: url('../fonts/webfonts/fa-brands-400.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'icon';
+    font-weight: 900;
+    src: url('../fonts/webfonts/fa-duotone-900.ttf') format('truetype');
+}

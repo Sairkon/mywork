@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'arial-r';
+    src: url('../fonts/arial-regular.ttf');
+}
+@font-face{
+    font-family: 'arial-b';
+    src: url('../fonts/arial-bold.ttf');
+}
+@font-face{
+    font-family: 'arial-bl';
+    src: url('../fonts/arial-black.ttf');
+}

@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Font Awesome';
+  font-weight: 600;
+  src: url("../fonts/webfonts/fa-brands-400.ttf") format("truetype") }
+
+@font-face {
+  font-family: 'Font Awesome';
+  font-weight: 900;
+  src: url("../fonts/webfonts/fa-solid-900.ttf") format("truetype")}
+
+.icon-burger::before{
+  content: '\f858';
+  font-weight: 900;  
+}
+.icon-book::before{
+  content: '\f02d';
+  font-weight: 900;
+}
+.icon-address::before{
+  content: '\f2b9';
+  font-weight: 900;
+}
+.icon-instagram::before{
+  content: '\f16d';
+  font-weight: 600;
+}
+.icon-facebook::before{
+  content: '\f39e';
+  font-weight: 600;
+}
+.icon-telegram::before{
+  content: '\f3fe';
+  font-weight: 600;
+}
